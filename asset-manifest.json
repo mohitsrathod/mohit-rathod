@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/mohit-rathod/static/css/main.a4e321c5.chunk.css",
+    "main.js": "/mohit-rathod/static/js/main.14c9063a.chunk.js",
+    "main.js.map": "/mohit-rathod/static/js/main.14c9063a.chunk.js.map",
+    "runtime-main.js": "/mohit-rathod/static/js/runtime-main.337358d9.js",
+    "runtime-main.js.map": "/mohit-rathod/static/js/runtime-main.337358d9.js.map",
+    "static/js/2.caaa2c95.chunk.js": "/mohit-rathod/static/js/2.caaa2c95.chunk.js",
+    "static/js/2.caaa2c95.chunk.js.map": "/mohit-rathod/static/js/2.caaa2c95.chunk.js.map",
+    "index.html": "/mohit-rathod/index.html",
+    "static/css/main.a4e321c5.chunk.css.map": "/mohit-rathod/static/css/main.a4e321c5.chunk.css.map",
+    "static/js/2.caaa2c95.chunk.js.LICENSE.txt": "/mohit-rathod/static/js/2.caaa2c95.chunk.js.LICENSE.txt",
+    "static/media/error.181c5a64.gif": "/mohit-rathod/static/media/error.181c5a64.gif",
+    "static/media/fb.6327c443.webp": "/mohit-rathod/static/media/fb.6327c443.webp",
+    "static/media/follow.53f01858.png": "/mohit-rathod/static/media/follow.53f01858.png",
+    "static/media/gifone.b19a0510.gif": "/mohit-rathod/static/media/gifone.b19a0510.gif",
+    "static/media/git.2b9c4dea.png": "/mohit-rathod/static/media/git.2b9c4dea.png",
+    "static/media/ig.08546dfb.png": "/mohit-rathod/static/media/ig.08546dfb.png",
+    "static/media/ln.238ec218.png": "/mohit-rathod/static/media/ln.238ec218.png",
+    "static/media/myimg.d4b95f02.jpeg": "/mohit-rathod/static/media/myimg.d4b95f02.jpeg",
+    "static/media/myskills.6a6ac4ac.gif": "/mohit-rathod/static/media/myskills.6a6ac4ac.gif",
+    "static/media/technologies.1a432fca.gif": "/mohit-rathod/static/media/technologies.1a432fca.gif",
+    "static/media/tw.57573394.png": "/mohit-rathod/static/media/tw.57573394.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.337358d9.js",
+    "static/js/2.caaa2c95.chunk.js",
+    "static/css/main.a4e321c5.chunk.css",
+    "static/js/main.14c9063a.chunk.js"
+  ]
+}
